@@ -18,6 +18,13 @@ The datasets used in this paper are available at:
 
 # Run MB-IMN
 
-```python run_MBHT.py --model=[MBHT] --dataset=[retail_beh] --gpu_id=[0] --batch_size=[2048]```, where [value] means the default value.
+```python run_MB-IMN.py --model=[MBIMN] --dataset=[retail_beh] --gpu_id=[0] --batch_size=[2048]```, where [value] means the default value.
+
+# Tips
+Note that we modified the evaluation sampling setting in ```recbole/sampler/sampler.py``` to make it static.
+The model code is at ```recbole/model/sequential_recommender/mbimn.py```.
+Feel free to explore other baseline models provided by the RecBole library and directly run them to compare the performances.
+
+
 
 
