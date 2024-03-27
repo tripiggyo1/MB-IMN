@@ -18,7 +18,6 @@ The datasets used in this paper are available at:
 
 # Run MB-IMN
 
-    python run_MBHT.py --model=[MBHT] --dataset=[retail_beh] --gpu_id=[0] --batch_size=[2048], 
-where [value] means the default value.
+```python run_MBHT.py --model=[MBHT] --dataset=[retail_beh] --gpu_id=[0] --batch_size=[2048]```, where [value] means the default value.
 
 
