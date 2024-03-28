@@ -16,7 +16,7 @@ The code is built on Pytorch and the [Recbole](https://github.com/RUCAIBox/RecBo
 
   [IJCAI](https://tianchi.aliyun.com/dataset/42)
 - The processed and ready-to-use dataset RetailRocket is in the file ```dataset``` as an example, you can directly run with it.
-- You may also process your own dataset into same format as ours and move it to ```./dataset/```.
+- You may also process your own dataset into the same format as ours and move it to ```./dataset/```.
 
 # Run MB-IMN
 
