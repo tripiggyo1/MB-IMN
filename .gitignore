@@ -1,0 +1,20 @@
+# Saved models
+saved
+*.pth
+
+.vscode/
+.idea/
+*.pyc
+# *.log
+log_tensorboard/*
+saved/
+*.lprof
+*.egg-info/
+docs/build/
+log
+log_tensorboard
+.ipynb_checkpoints/
+*.npy
+*.pkl
+*.DS_Store
+/dataset
