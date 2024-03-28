@@ -8,7 +8,7 @@ The code is built on Pytorch and the [Recbole](https://github.com/RUCAIBox/RecBo
     pip install -r requirements.txt
 
 # Datasets
-- The dataset folder contains a processed and ready-to-use dataset, you can also process other datasets into same format and move them to ```./dataset/```.
+- The dataset folder contains a processed and ready-to-use dataset, you may also process other datasets into same format and move them to ```./dataset/```.
 
 - The datasets used in this paper are available at:
 
