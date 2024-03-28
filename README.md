@@ -25,7 +25,7 @@ The code is built on Pytorch and the [Recbole](https://github.com/RUCAIBox/RecBo
 # Tips
 - Note that we modified the evaluation sampling setting in ```recbole/sampler/sampler.py``` to make it static.
 - The model code is at ```recbole/model/sequential_recommender/mbimn.py```.
-- The hyperparameter setting is at ```recbole/properties/model/MBIMN.yaml```
+- The hyperparameter setting is at ```recbole/properties/model/MBIMN.yaml```.
 - Feel free to explore other baseline models provided by the RecBole library and directly run them to compare the performances.
 
 
