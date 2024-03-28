@@ -8,8 +8,6 @@ The code is built on Pytorch and the [Recbole](https://github.com/RUCAIBox/RecBo
     pip install -r requirements.txt
 
 # Datasets
-- The dataset folder contains a processed and ready-to-use dataset, you may also process other datasets into same format and move them to ```./dataset/```.
-
 - The datasets used in this paper are available at:
 
   [UserBehavior](https://tianchi.aliyun.com/dataset/649)
@@ -17,6 +15,8 @@ The code is built on Pytorch and the [Recbole](https://github.com/RUCAIBox/RecBo
   [Retailrocket](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset)
 
   [IJCAI](https://tianchi.aliyun.com/dataset/42)
+- The processed and ready-to-use dataset RetailRocket is in the file ```dataset``` as an example, you can directly run with it.
+- You may also process your own dataset into same format as ours and move it to ```./dataset/```.
 
 # Run MB-IMN
 
