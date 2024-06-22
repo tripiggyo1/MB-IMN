@@ -1,5 +1,5 @@
 # MB-IMN
-Public implementation of the Multi-Behavior Interest Matching Network (MB-IMN), ICWS 2024
+Public implementation of the Multi-Behavior Interest Matching Network (MB-IMN), ICTAI 2024
 
 
 # Requirements
